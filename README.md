@@ -30,3 +30,14 @@ If you are developing a production application, we recommend enabling type-aware
 ```
 
 See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+
+## 👥 Contributors
+
+<!-- CONTRIBUTORS:START (auto-generated — do not edit by hand) -->
+| | Contributor | GitHub | Lines added | Commits |
+| :---: | :--- | :--- | ---: | ---: |
+|  | **sudipabiswas** | — | 6,218 | **5** |
+| | | **Total** | **6,218** | **5** |
+<!-- CONTRIBUTORS:END -->
+
+<sub>Auto-updated on every push to `main` by [`.github/workflows/contributors.yml`](.github/workflows/contributors.yml) — commits + lines-added per author via `git shortlog` / `git log --numstat` (identities in [`.mailmap`](.mailmap); merges & lockfiles excluded).</sub>
